@@ -66,3 +66,5 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+#-> aHR0cHM6Ly93d3cuc2Fhdm4uY29tL3MvcGxheWxpc3QvMmMzMDlhOGE4OWRjMjg5MzlhY2U4MGMzMjdjYTFiMjkv
